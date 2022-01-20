@@ -1,0 +1,8 @@
+const { MessageEmbed } = require('discord.js');
+
+const rImageEmbed = new MessageEmbed()
+    .setDescription('https://probot.media/C6dbHzcQVc.png')
+
+const rulesEmbed = new MessageEmbed()
+    .setAuthor({ name: 'Welcome to Satans Hollow!' })
+    .setDescription(" ***- Welcome to Satans Hollow! -*** \n***-***︰We expect __everyone__ to abide by these rules.\n\n __***Community Rules: ***__\n ***-***︰This server is a safe community for ***LGBTQ+ members, and fellow gamers!*** \n\n***-***︰_THERE WILL BE ZERO TOLERANCE FOR BULLYING/HARASSMENT/NEGATIVE TOXICITY !!_\n(which includes racism, sexism, homophobia, transphobia, or bigotry of any kind.) \n\n ***-***︰Posting/sharing of sensitive contents will not be tolerated.\n(which includes but are not limited to: pornography, violence, gore, animal abuse, hateful propaganda, etc. )\n\n***-***︰Please keep content in its respective channels.\n\n ***-***︰No spamming/@.everyone/spam mentioning mods. \n\n***-***︰If there are any issues, please go to an Admin.\n\n__***Punishment will be issued for:*** __ \n ***-***︰Excessive spam, trolling.\n\n ***-***︰Threatening or bullying a member(s).\n\n***-***︰Posting prohibited/explicit content in unrelated channels.\n\n***-*** Refusal to abide by these rules can result in a kick or ban!\n\n\nThanks for reading the rules!\n__***To Get Started:***__\n\n***-***︰Head to (fill in channel) and verify in order to get access to the rest of the server!\n\n***-***︰Then, head to (fill in channel) to assign roles for yourself!\n\n***-***︰Don't forget to check out (fill in channel) as well to learn about the staff community!\n\n\n Enjoy your stay!")
